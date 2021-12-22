@@ -87,8 +87,6 @@ public class FamilyAccount {
         char c = Utility.readConfirmSelection();
         if (c == 'Y') {
             System.exit(0);
-        } else {
-            printMenu();
         }
     }
 
