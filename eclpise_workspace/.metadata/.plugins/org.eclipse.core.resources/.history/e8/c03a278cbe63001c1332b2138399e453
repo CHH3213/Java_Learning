@@ -1,9 +1,0 @@
-package pers.chh3213.sort;
-
-public class FuncTest {
-	public static void main(String[] args) {
-		System.out.println("我是");
-		if
-	}
-	
-}
