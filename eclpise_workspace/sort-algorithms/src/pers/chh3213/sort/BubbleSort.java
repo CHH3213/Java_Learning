@@ -1,6 +1,4 @@
 package pers.chh3213.sort;
-import java.util.Iterator;
-import java.util.Scanner;
 public class BubbleSort {
 	public static void main(String[] args) {
 		int[] arr = {5,4,1,966,2,3,56,89,12,0,56562};
