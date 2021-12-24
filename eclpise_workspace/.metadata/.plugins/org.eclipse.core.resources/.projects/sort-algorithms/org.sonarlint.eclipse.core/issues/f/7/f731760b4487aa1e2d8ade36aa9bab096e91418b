@@ -1,22 +1,22 @@
 
-p	java:S106	"9Replace this use of System.out or System.err by a logger.(‚˜á®şÿÿÿÿ8ÇÃìĞŞ/H£RMAJORZ
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(‚˜á®şÿÿÿÿ8ÇÃìĞŞ/HœRMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(‚˜á®şÿÿÿÿ8•©ùĞŞ/HRMAJORZ
 CODE_SMELL
 f
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8†¢éĞŞ/H”RMINORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(×¯Æ½üÿÿÿÿ8òòêĞŞ/H›RMAJORZ
-CODE_SMELL
-p	java:S106#"9Replace this use of System.out or System.err by a logger.(‚˜á®şÿÿÿÿ8•©ùĞŞ/H¶RMAJORZ
-CODE_SMELL
-p	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ç§êĞŞ/H˜RMAJORZ
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8†¢éĞŞ/HRMINORZ
 CODE_SMELL
 ]
-java:S54111"*Use the primitive boolean expression here.(ê¸—8”»èÑŞ/H‚RMINORZ
-CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.(ÈÄ¯§8àÑ¦ÑŞ/H…RMAJORZ
+java:S54111"*Use the primitive boolean expression here.(ê¸—8”»èÑŞ/H RMINORZ
 CODE_SMELL
 b
-java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8û«ôĞŞ/H§RMINORZ
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8û«ôĞŞ/H£RMINORZ
 CODE_SMELL
-p	java:S106!"9Replace this use of System.out or System.err by a logger.(ô£ ¢ÿÿÿÿÿ8•©ùĞŞ/HµRMAJORZ
+n	java:S125"<This block of commented-out lines of code should be removed.(ÈÄ¯§8àÑ¦ÑŞ/H¥RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(×¯Æ½üÿÿÿÿ8òòêĞŞ/H·RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ç§êĞŞ/H¸RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ô£ ¢ÿÿÿÿÿ8•©ùĞŞ/H¹RMAJORZ
 CODE_SMELL
