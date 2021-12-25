@@ -1,4 +1,4 @@
-package pers.chh3213.sort;
+package pers.chh3213.array;
 import java.util.Scanner;
 public class HuiXingShu {
 		public static void main(String[] args) {

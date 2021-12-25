@@ -1,4 +1,4 @@
-package pers.chh3213.sort;
+package pers.chh3213.array;
 
 public class FuncTest {
 	public static void main(String[] args) {
