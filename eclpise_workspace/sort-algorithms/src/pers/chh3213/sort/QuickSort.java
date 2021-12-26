@@ -7,7 +7,8 @@ public class QuickSort {
 		for (int i : arr) {
 			System.out.print(i+"\t");
 		}
-		quickSort(arr, 0, arr.length-1);
+		QuickSort quick = new QuickSort();
+		quick.quickSort(arr, 0, arr.length-1);
 		System.out.println();
 		System.out.println("after sort:");
 		for (int i : arr) {
@@ -15,7 +16,7 @@ public class QuickSort {
 		}
 
 	}
-	public static void quickSort(int[] arr,int start, int end) {
+	public  void quickSort(int[] arr,int start, int end) {
 		if(start<end) {
 			 int index = partition(arr, start, end); //将表一分为2
 			 quickSort(arr, start, index-1); // 对左子序列进行快速排序
@@ -24,7 +25,7 @@ public class QuickSort {
 
 	}
 //	一次划分
-	public static int partition(int[] arr, int low,int high) {
+	public  int partition(int[] arr, int low,int high) {
 
 		int base = arr[low]; //暂存基准元素到base
 		while (low<high) {//从表的两端交替的向中间扫描

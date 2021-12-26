@@ -26,16 +26,17 @@ public class BubbleSort {
 //				}
 //			}
 //		}
-		bubbleSort(arr);
+		BubbleSort bubble = new BubbleSort();
+		bubble.bubbleSort(arr);
 		System.out.println();
 		System.out.println("after sort:");
 		for (int i : arr) {
 			System.out.print(i+"\t");
 		}
 	}
-	public static void bubbleSort(int[] data) {
+	public void bubbleSort(int[] data) {
 		for (int i = 0; i < data.length-1; i++) {
-			Boolean swap = false;
+			boolean swap = false;
 			for (int j = 0; j < data.length-i-1; j++) {
 				if(data[j]>data[j+1]) {
 					int temp = data[j];
