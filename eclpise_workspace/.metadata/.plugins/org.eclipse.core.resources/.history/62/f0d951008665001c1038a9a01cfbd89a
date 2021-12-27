@@ -1,0 +1,30 @@
+package pers.chh3213.classLearn;
+
+public class BoyOrGirl {
+
+}
+class Boy{
+	private String name;
+	private int age;
+	public void setName(String name) {
+		this.name = name;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public String getName() {
+		return this.name;
+	}
+	public int getAge() {
+		return this.age;
+	}
+	public void marry(Girl girl) {
+
+	}
+	public void shout() {
+		System.out.println("I'm the handsome god!!");
+	}
+}
+class Girl{
+
+}

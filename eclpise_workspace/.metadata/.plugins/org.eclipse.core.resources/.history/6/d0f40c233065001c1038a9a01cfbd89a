@@ -1,0 +1,9 @@
+package pers.chh3213.sort;
+
+public class ArrayMove {
+	public static void main(String[] args) {
+		int[] arr = new int[5];
+		arr = new int[]{2,4,5,6,8};
+
+	}
+}

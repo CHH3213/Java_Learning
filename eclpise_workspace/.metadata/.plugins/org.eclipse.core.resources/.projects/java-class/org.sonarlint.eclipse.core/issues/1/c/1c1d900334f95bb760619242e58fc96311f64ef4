@@ -1,0 +1,17 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö”²þúÿÿÿÿH¤	RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8Ÿ—Ú…ß/H¥	RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(•Ì‹Âúÿÿÿÿ8Ÿ—Ú…ß/H¦	RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(“‡”€ýÿÿÿÿ8Ÿ—Ú…ß/H§	RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(çœõøÿÿÿÿÿ8Ÿ—Ú…ß/H©	RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(‚‹ÜŒ8Ÿ—Ú…ß/Hª	RMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(¬¸‘Õ8Ÿ—Ú…ß/H«	RMAJORZ
+CODE_SMELL
+k	java:S1063"9Replace this use of System.out or System.err by a logger.(æüÞØ8Ÿ—Ú…ß/H¬	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,33 @@
+package pers.chh3213.sort;
+
+import java.util.Arrays;
+
+/**
+* DirectInsertSort.java
+* @Description 直接插入法
+* @author chh3213
+* @version
+* @date 2021年12月26日上午11:19:07
+ */
+public class DirectInsertSort {
+	public static void main(String[] args) {
+		DirectInsertSort insertSort = new DirectInsertSort();
+		int[] arr = {5,4,1,966,3,3,56,89,12,0,56562};
+		insertSort.directInsertSort(arr);
+		System.out.println(Arrays.toString(arr));
+	}
+	public void directInsertSort(int[] arr) {
+		for (int i = 1; i < arr.length; i++) {
+			for(int j=i;j>0;j--) {
+				if(arr[j]<arr[j-1])swap(arr, j, j-1);
+			}
+		}
+	}
+	public void swap(int[] arr, int i, int j) {
+		int temp =arr[i];
+		arr[i]=arr[j];
+		arr[j]=temp;
+	}
+
+
+}

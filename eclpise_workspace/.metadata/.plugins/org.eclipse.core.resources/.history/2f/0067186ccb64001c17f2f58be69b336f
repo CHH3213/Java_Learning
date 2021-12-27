@@ -1,0 +1,23 @@
+package pers.chh3213.sort;
+public class QuickSort {
+	public static void main(String[] args) {
+		System.out.println("quick sort test");
+
+
+	}
+	public static void quickSort() {
+		System.out.println("quick sort test");
+	}
+//	swap two values
+	public static void swap(int[] arr, int index_1,int index_2 ) {
+		int temp = arr[index_1];
+		arr[index_1] = arr[index_2];
+		arr[index_2] = temp;
+	}
+//	一次划分
+	public static int partition(int[] arr, int low,int high) {
+
+		return index;
+	}
+
+}

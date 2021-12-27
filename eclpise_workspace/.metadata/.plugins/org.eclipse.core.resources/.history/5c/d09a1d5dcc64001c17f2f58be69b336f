@@ -1,0 +1,46 @@
+package pers.chh3213.sort;
+public class QuickSort {
+	public static void main(String[] args) {
+		System.out.println("quick sort test");
+		int[] arr = {5,4,1,966,2,3,56,89,12,0,56562};
+		System.out.println("before sort:");
+		for (int i : arr) {
+			System.out.print(i+"\t");
+		}
+		quickSort(arr, 0, arr.length);
+		System.out.println();
+		System.out.println("after sort:");
+		for (int i : arr) {
+			System.out.print(i+"\t");
+		}
+
+	}
+	public static void quickSort(int[] arr,int start, int end) {
+		if(start<end) {
+			 int index = partition(arr, start, end);
+			 quickSort(arr, start, index-1);
+			 quickSort(arr, index+1, end);
+		}
+
+	}
+//	一次划分
+	public static int partition(int[] arr, int low,int high) {
+		arr[0] = arr[low];
+		while (low<high) {
+			while(low<high && arr[high]>=arr[0])high--;
+			if(low<high) {
+				arr[low]=arr[high];
+				low++;
+			}
+			while(low<high && arr[low]<= arr[0])low++;
+			if(low<high) {
+				arr[high]=arr[low];
+				high--;
+			}
+		}
+		arr[low] = arr[0];
+		return low;
+	}
+
+
+}

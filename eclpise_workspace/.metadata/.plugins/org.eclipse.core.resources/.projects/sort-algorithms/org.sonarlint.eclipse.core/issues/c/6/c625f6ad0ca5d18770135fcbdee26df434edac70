@@ -1,0 +1,32 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(ó‰ËÇH¤RMAJORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(Àà‹ÚH¦RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÎŠÈıH§RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(™Ÿ˜÷H©RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(ûØé‡HªRMAJORZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(ù£·êıÿÿÿÿH«RMAJORZ
+CODE_SMELL
+l	java:S125'"<This block of commented-out lines of code should be removed.( ´«ÍıÿÿÿÿH¬RMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(ù£·êıÿÿÿÿH®RMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+d	java:S1068"9Replace this use of System.out or System.err by a logger.(ïÍØƒH°RMAJORZ
+CODE_SMELL
+[
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕH±RMINORZ
+CODE_SMELL
+_
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿH³RMINORZ
+CODE_SMELL
+	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼õ÷ŞşÿÿÿÿHµRMINORZ
+CODE_SMELL

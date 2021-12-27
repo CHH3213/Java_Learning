@@ -1,0 +1,20 @@
+package pers.chh3213.classLearn;
+
+public class StudentTest {
+	public static void main(String[] args) {
+		Student[] stu_arr = new Student[20];
+		System.out.println(stu_arr);
+	}
+}
+
+class Student{
+	int number;
+	int state;
+	int score;
+	public void stateIs() {
+		state = (int)(Math.random()*6)+1;
+	}
+	public void scoreIs() {
+		score =(int)(Math.random()*100)+1;
+	}
+}

@@ -1,0 +1,13 @@
+package pers.chh3213.classLearn;
+import pers.chh3213.classLearn.Account;
+public class MainClass {
+	public static void main(String[] args) {
+		Customer customer = new Customer("Jane", "Smith");
+		Account account = new Account(1000, 2000, 0.0123);
+		customer.setAccount(account);
+		Account acount2 =  customer.getAccount();
+		acount2.deposit(100);
+		acount2.withdraw(960);
+		acount2.withdraw(2000);
+	}
+}

@@ -1,0 +1,21 @@
+
+€
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(‚ÈÂÉ8­ðŸ‡ß/H¨
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(û÷È¾8”ü«‡ß/H«
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Çô¡ªýÿÿÿÿ8”ü«‡ß/H¬
+RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö”²þúÿÿÿÿH¤
+RMINORZ
+CODE_SMELL
+€
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.(“ú»Á8”ü«‡ß/H­
+RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÕ¡­úÿÿÿÿ8”ü«‡ß/Hª
+RMAJORZ
+CODE_SMELL

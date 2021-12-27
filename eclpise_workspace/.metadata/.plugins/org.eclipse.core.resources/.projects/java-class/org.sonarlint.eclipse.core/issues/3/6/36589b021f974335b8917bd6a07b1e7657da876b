@@ -1,0 +1,21 @@
+
+s	java:S125	"<This block of commented-out lines of code should be removed.(õ×Òôÿÿÿÿÿ8×Ÿî„ß/H	RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ÙïĞœùÿÿÿÿ8Ù“¤…ß/H¡	RMAJORZ
+CODE_SMELL
+a
+java:S2140+")Use "java.util.Random.nextInt()" instead.(¦ûÈ…úÿÿÿÿ8ÚºÇ„ß/H›	RMINORZ
+CODE_SMELL
+\
+java:S2140,")Use "java.util.Random.nextInt()" instead.(ü¥êğ8ÚºÇ„ß/Hœ	RMINORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(§–’–øÿÿÿÿ8Ù“¤…ß/H¢	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®¨°·úÿÿÿÿ8Á¶Ÿ…ß/H 	RMAJORZ
+CODE_SMELL
+‚	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¨ÔK8é»Ñ„ß/H‘	RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö”²şúÿÿÿÿHìRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âŸé‚ÿÿÿÿÿ8ÜÙå„ß/H™	RMAJORZ
+CODE_SMELL

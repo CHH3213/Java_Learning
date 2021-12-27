@@ -1,0 +1,11 @@
+package pers.chh3213.classLearn;
+
+public class BoyOrGirl {
+
+}
+class Boy{
+
+}
+class Girl{
+
+}

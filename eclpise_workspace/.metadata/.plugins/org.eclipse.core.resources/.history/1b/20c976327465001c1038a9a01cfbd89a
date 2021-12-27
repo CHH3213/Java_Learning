@@ -1,0 +1,17 @@
+package pers.chh3213.classLearn;
+
+import javax.naming.spi.DirStateFactory.Result;
+
+public class RecursionTest {
+	public static void main(String[] args) {
+		int result = nFactorial(3);
+		System.out.println(result);
+	}
+	public static int nFactorial(int number) {
+		if(number==1)return number;
+		else {
+			return number*nFactorial(number-1);
+		}
+		
+	}
+}

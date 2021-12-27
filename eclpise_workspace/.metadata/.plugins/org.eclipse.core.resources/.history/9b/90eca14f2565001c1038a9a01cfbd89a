@@ -1,0 +1,16 @@
+package pers.chh3213.sort;
+import java.util.Arrays;
+public class ArrayClassTest {
+	public static void main(String[] args) {
+		int[] arr1 = new int[] {2,5,10,456,4,23,15684,8749};
+		int[] arr2 = new int[] {2,5,10,456,4,203,15684,8749};
+		//判断两个数组是否相等
+		boolean is_equal = Arrays.equals(arr1, arr2);
+		System.out.println("is equal? "+ is_equal);
+		//输出数组信息
+		System.out.println(Arrays.toString(arr1));
+		//将指定值填充到数组之中
+//		Arrays.fill(arr1, 100);
+//		System.out.println(Arrays.toString(arr1));
+	}
+}

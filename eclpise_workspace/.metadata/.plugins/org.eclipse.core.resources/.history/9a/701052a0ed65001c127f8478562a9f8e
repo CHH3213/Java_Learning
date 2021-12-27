@@ -1,0 +1,19 @@
+package pers.chh3213.classLearn;
+
+public class Bank {
+	private Customer[] customers;
+	private int numberOfCustomer;
+	public Bank() {
+
+	}
+	public void addCustomer(String f,String l) {
+		Customer customer = new Customer(f, l);
+
+	}
+	public int getNumOfCustomers() {
+		return this.numberOfCustomer;
+	}
+	public Customer getCustomer() {
+		return this.customers
+	}
+}

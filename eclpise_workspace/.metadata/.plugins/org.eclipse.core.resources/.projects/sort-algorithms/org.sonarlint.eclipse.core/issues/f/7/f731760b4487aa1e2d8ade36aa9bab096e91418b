@@ -1,0 +1,17 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(×¯Æ½üÿÿÿÿ8ÇÃìÐÞ/H¡RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ç§êÐÞ/HˆRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ô£ ¢ÿÿÿÿÿ8•©ùÐÞ/H RMAJORZ
+CODE_SMELL
+n	java:S125
+"<This block of commented-out lines of code should be removed.(ÈÄ¯§8àÑ¦ÑÞ/H‰RMAJORZ
+CODE_SMELL
+]
+java:S5411/"*Use the primitive boolean expression here.(êŽ¸—8”»èÑÞ/HRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚˜á®þÿÿÿÿ8òòêÐÞ/H›RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(‚˜á®þÿÿÿÿ8•©ùÐÞ/HœRMAJORZ
+CODE_SMELL

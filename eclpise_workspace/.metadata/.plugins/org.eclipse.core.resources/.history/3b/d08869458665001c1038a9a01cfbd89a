@@ -1,0 +1,50 @@
+package pers.chh3213.classLearn;
+
+public class BoyOrGirl {
+
+}
+class Boy{
+	private String name;
+	private int age;
+	public void setName(String name) {
+		this.name = name;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public String getName() {
+		return this.name;
+	}
+	public int getAge() {
+		return this.age;
+	}
+	public void marry(Girl girl) {
+
+	}
+	public void shout() {
+		System.out.println("I'm a rich boy!!");
+	}
+}
+class Girl{
+	private String name;
+	private int age;
+	public void setName(String name) {
+		this.name = name;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public String getName() {
+		return this.name;
+	}
+	public int getAge() {
+		return this.age;
+	}
+	public void marry(Boy boy) {
+
+	}
+	public void compare(Girl girl) {
+		System.out.println("my age:"+ this.age);
+		System.out.println("her age:"+ girl.age);
+	}
+}
