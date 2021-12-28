@@ -1,0 +1,14 @@
+package pers.chh3213.project2;
+/**
+ *
+* CustomerList.java
+* @Description 为Customer对象的管理模块，内部使用数组管理一组Customer对象
+* @author chh3213
+* @version
+* @date 2021年12月27日下午11:08:09
+ */
+public class CustomerList {
+	private Customer[] customers;//用来保存客户对象的数组
+	private int total;//记录已保存客户对象的数量
+
+}

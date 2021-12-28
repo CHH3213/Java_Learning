@@ -1,0 +1,10 @@
+package pers.chh3213.classLearn20211228;
+
+public class GeometricTest {
+	public void equalsArea() {
+
+	}
+	public void displayGeometricObject(GeometricObject objecet) {
+		System.out.println("area is:"+objecet.findArea());
+	}
+}

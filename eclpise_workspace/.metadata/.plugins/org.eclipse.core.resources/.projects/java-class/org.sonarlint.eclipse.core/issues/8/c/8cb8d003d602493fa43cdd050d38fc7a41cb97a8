@@ -1,0 +1,17 @@
+
+Œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊË8Ì¥Êøß/HªRMINORZ
+CODE_SMELL
+]
+java:S1172"1Remove these unused method parameters "a", "arr".(ªƒŠíH–RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ôæÚıÿÿÿÿHRMAJORZ
+CODE_SMELL
+g	java:S125	"<This block of commented-out lines of code should be removed.(¹û¸®H”RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„Îè¯şÿÿÿÿHšRMAJORZ
+CODE_SMELL
+e
+java:S1161":Add the "@Override" annotation above this method signature(—ğØzH›RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ÏÿÇû8·ôÙøß/HÁRMAJORZ
+CODE_SMELL

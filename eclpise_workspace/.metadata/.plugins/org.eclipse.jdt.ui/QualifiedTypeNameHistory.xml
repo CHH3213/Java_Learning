@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System.Logger"/>
     <fullyQualifiedTypeName name="java.lang.System.LoggerFinder"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthToggleButtonUI"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
@@ -13,7 +12,6 @@
     <fullyQualifiedTypeName name="java.time.chrono.ThaiBuddhistEra"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.Teacher"/>
     <fullyQualifiedTypeName name="java.lang.FdLibm.Pow"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.BubbleSort"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.Student"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.DataSwap"/>
@@ -22,7 +20,21 @@
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.CircleArea"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.TriAngle"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.transferTest"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.Boy"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.Girl"/>
+    <fullyQualifiedTypeName name="pers.chh3213.project2.CustomerList"/>
+    <fullyQualifiedTypeName name="pers.chh3213.project2.CustomerView"/>
+    <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+    <fullyQualifiedTypeName name="com.atguigu.p2.CMUtility"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="pers.chh3213.project2.Customer"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Graduate"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Person"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.InstanceTest"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.GeometricObject"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.MyRectangle"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Circle"/>
 </qualifiedTypeNameHistroy>
