@@ -6,7 +6,6 @@
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="pers.chh3213.sort.BubbleSort"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.time.chrono.ThaiBuddhistEra"/>
@@ -26,15 +25,21 @@
     <fullyQualifiedTypeName name="pers.chh3213.project2.CustomerView"/>
     <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
     <fullyQualifiedTypeName name="com.atguigu.p2.CMUtility"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="pers.chh3213.project2.Customer"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Graduate"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Person"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.InstanceTest"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Student"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.GeometricObject"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.MyRectangle"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211228.Circle"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211229.Account"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211229.CheckAccount"/>
 </qualifiedTypeNameHistroy>

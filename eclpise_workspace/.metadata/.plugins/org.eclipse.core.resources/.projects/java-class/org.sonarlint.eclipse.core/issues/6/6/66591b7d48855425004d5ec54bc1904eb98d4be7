@@ -1,0 +1,23 @@
+
+b
+java:S3740"/Provide the parametrized type for this generic.(ÒîÛÖ8ç¥¶à/HÏRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ç¥¶à/HÔRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊËH»RMINORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ÒîÛÖ8ç¥¶à/HÎRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(İç£µıÿÿÿÿ8ç¥¶à/HÒRMAJORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(—Šµ8ç¥¶à/HşRMAJORZ
+CODE_SMELL
+	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ç¥¶à/HÿRMINORZ
+CODE_SMELL
+˜
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÒîÛÖ8ç¥¶à/HĞRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(€®¿úÿÿÿÿ8ç¥¶à/HÓRMAJORZ
+CODE_SMELL

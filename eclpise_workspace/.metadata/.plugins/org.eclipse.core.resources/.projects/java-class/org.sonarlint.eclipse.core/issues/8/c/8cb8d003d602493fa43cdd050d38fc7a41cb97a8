@@ -1,17 +1,17 @@
 
-Œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊË8Ì¥Êøß/HªRMINORZ
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„Îè¯şÿÿÿÿH¾RMAJORZ
 CODE_SMELL
 ]
-java:S1172"1Remove these unused method parameters "a", "arr".(ªƒŠíH–RMAJORZ
+java:S1172"1Remove these unused method parameters "a", "arr".(ªƒŠíH´RMAJORZ
 CODE_SMELL
-i	java:S106"9Replace this use of System.out or System.err by a logger.(ôæÚıÿÿÿÿHRMAJORZ
+Œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊË8Ì¥Êøß/H¿RMINORZ
 CODE_SMELL
-g	java:S125	"<This block of commented-out lines of code should be removed.(¹û¸®H”RMAJORZ
+g	java:S125	"<This block of commented-out lines of code should be removed.(¹û¸®H²RMAJORZ
 CODE_SMELL
-i	java:S106"9Replace this use of System.out or System.err by a logger.(„Îè¯şÿÿÿÿHšRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ôæÚıÿÿÿÿ8ÁİÿŸà/HÎRMAJORZ
 CODE_SMELL
-e
-java:S1161":Add the "@Override" annotation above this method signature(—ğØzH›RMAJORZ
+l
+java:S1161":Add the "@Override" annotation above this method signature(—ğØz8¾ù à/HàRMAJORZ
 CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.(ÏÿÇû8·ôÙøß/HÁRMAJORZ
+n	java:S125"<This block of commented-out lines of code should be removed.(ÏÿÇû8¾ù à/HâRMAJORZ
 CODE_SMELL

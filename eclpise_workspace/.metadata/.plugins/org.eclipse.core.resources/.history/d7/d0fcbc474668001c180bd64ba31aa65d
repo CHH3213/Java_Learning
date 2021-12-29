@@ -1,0 +1,14 @@
+package pers.chh3213.classLearn20211229;
+
+public class CheckAccount extends Account {
+	private double overdraft;
+	public CheckAccount() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public void withdraw(double amount) {
+		// TODO Auto-generated method stub
+		super.withdraw(amount);
+	}
+}

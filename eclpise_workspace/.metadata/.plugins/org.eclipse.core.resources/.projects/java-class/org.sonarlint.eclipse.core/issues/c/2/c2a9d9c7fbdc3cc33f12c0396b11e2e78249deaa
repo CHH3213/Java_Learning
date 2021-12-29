@@ -1,0 +1,63 @@
+
+h
+java:S4973*"<Strings and Boxed types should be compared using "equals()".(šËÂ¹8 ²åŒà/HRMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹¤âÑùÿÿÿÿ8ììòŒà/H”RMAJORZ
+CODE_SMELL
+m
+java:S4973."<Strings and Boxed types should be compared using "equals()".(‰›¢Èøÿÿÿÿ8 ²åŒà/HûRMAJORZBUG
+X
+java:S2129" Remove this "Double" constructor(¤ïƒ¢ûÿÿÿÿ8¿»İŒà/HƒRMAJORZ
+CODE_SMELL
+€
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¤ïƒ¢ûÿÿÿÿ8¿»İŒà/HšRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ8×ßôŒà/H™RMAJORZ
+CODE_SMELL
+X
+java:S2129" Remove this "Double" constructor(ıÆÑóøÿÿÿÿ8§ÜŞŒà/H“RMAJORZ
+CODE_SMELL
+€
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ıÆÑóøÿÿÿÿ8§ÜŞŒà/HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—àÓÆüÿÿÿÿ8²³Œà/HRMAJORZ
+CODE_SMELL
+€
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(î–’èıÿÿÿÿ8 ²åŒà/H’RMAJORZ
+CODE_SMELL
+€
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ôôöüÿÿÿÿ8 ²åŒà/HRMAJORZ
+CODE_SMELL
+{
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ìıÚ¨8§ÜŞŒà/HRMAJORZ
+CODE_SMELL
+Y
+java:S2129"!Remove this "Integer" constructor(î–’èıÿÿÿÿ8 ²åŒà/H˜RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(šËÂ¹8µ«òŒà/H£RMAJORZ
+CODE_SMELL
+s	java:S125	"<This block of commented-out lines of code should be removed.(Ôá÷‰ùÿÿÿÿ8¿»İŒà/H…RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(Ôöûõùÿÿÿÿ8§ÜŞŒà/H„RMAJORZ
+CODE_SMELL
+Y
+java:S2129"!Remove this "Integer" constructor(¤ïƒ¢ûÿÿÿÿ8¿»İŒà/HRMAJORZ
+CODE_SMELL
+t
+java:S2583"CChange this condition so that it does not always evaluate to "true"(¤ïƒ¢ûÿÿÿÿ8¿»İŒà/HŒRMAJORZBUG
+Y
+java:S2129"!Remove this "Integer" constructor(ôôöüÿÿÿÿ8 ²åŒà/H€RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊËH•RMINORZ
+CODE_SMELL
+T
+java:S2129"!Remove this "Integer" constructor(ìıÚ¨8§ÜŞŒà/HRMAJORZ
+CODE_SMELL
+a
+java:S2154"0Add an explicit cast to match types of operands.(¤ïƒ¢ûÿÿÿÿ8¿»İŒà/H—RMAJORZBUG
+€
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(¤ïƒ¢ûÿÿÿÿ8¿»İŒà/H‘RMAJORZ
+CODE_SMELL
+n	java:S125)"<This block of commented-out lines of code should be removed.(©Ñ­8×ßôŒà/H–RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(‰›¢Èøÿÿÿÿ8 ²åŒà/H‚RMAJORZ
+CODE_SMELL

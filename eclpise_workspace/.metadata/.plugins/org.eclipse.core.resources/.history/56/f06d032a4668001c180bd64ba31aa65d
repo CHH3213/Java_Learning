@@ -1,0 +1,8 @@
+package pers.chh3213.classLearn20211229;
+
+public class CheckAccount extends Account {
+	public CheckAccount() {
+		super(getId(), getBalance(), getAnnualInterestRate());
+		// TODO Auto-generated constructor stub
+	}
+}

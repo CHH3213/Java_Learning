@@ -1,34 +1,34 @@
 
-‚
-java:S1104/"QMake major a static final constant or non-public and provide accessors if needed.(çÎ°—ÿÿÿÿÿHÜRMINORZ
-CODE_SMELL
 „
-java:S1192"IDefine a constant instead of duplicating this literal "a person" 3 times.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HÅRCRITICALZ
+java:S1192"IDefine a constant instead of duplicating this literal "a person" 3 times.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HåRCRITICALZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HÁRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HéRMAJORZ
 CODE_SMELL
 k
-java:S11610":Add the "@Override" annotation above this method signature(©äÁ”ÿÿÿÿÿHÔRMAJORZ
+java:S1161)":Add the "@Override" annotation above this method signature(©äÁ”ÿÿÿÿÿHêRMAJORZ
+CODE_SMELL
+‚
+java:S1104/"QMake major a static final constant or non-public and provide accessors if needed.(çÎ°—ÿÿÿÿÿHìRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ËÃÆª8ÑÁË÷ß/HíRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(§œ¾şÿÿÿÿ8ÑÁË÷ß/HîRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(÷ö³Ôıÿÿÿÿ8ÑÁË÷ß/HïRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HğRMAJORZ
 CODE_SMELL
 u
-java:S1192#"FDefine a constant instead of duplicating this literal "Name:" 3 times.(•¿®ÙHØRCRITICALZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/H RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HÍRMAJORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(ËÃÆª8ÑÁË÷ß/H¥RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¹ã“ùÿÿÿÿ8ÑÁË÷ß/HšRMAJORZ
-CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊËHİRMINORZ
+java:S1192#"FDefine a constant instead of duplicating this literal "Name:" 3 times.(•¿®ÙHñRCRITICALZ
 CODE_SMELL
 k
-java:S1161)":Add the "@Override" annotation above this method signature(©äÁ”ÿÿÿÿÿHÖRMAJORZ
+java:S11610":Add the "@Override" annotation above this method signature(©äÁ”ÿÿÿÿÿHõRMAJORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(÷ö³Ôıÿÿÿÿ8ÑÁË÷ß/HËRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹ã“ùÿÿÿÿ8ÑÁË÷ß/H÷RMAJORZ
 CODE_SMELL
-s	java:S125"<This block of commented-out lines of code should be removed.(§œ¾şÿÿÿÿ8ÑÁË÷ß/H¦RMAJORZ
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÌÊËHøRMINORZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(¹ã“ùÿÿÿÿ8ÑÁË÷ß/HÌRMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹ã“ùÿÿÿÿ8ÑÁË÷ß/HùRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆÒÿÿÿÿÿ8ÑÁË÷ß/HúRMAJORZ
 CODE_SMELL
