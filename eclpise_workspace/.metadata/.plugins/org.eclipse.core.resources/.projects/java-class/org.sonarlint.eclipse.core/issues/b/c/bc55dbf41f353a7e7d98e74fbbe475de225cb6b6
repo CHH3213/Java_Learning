@@ -1,0 +1,16 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ó Úê8¸·‚µà/HÔRMAJORZ
+CODE_SMELL
+^
+java:S1068"&Remove this unused "id" private field.(ôç¼Óþÿÿÿÿ8Ü¬ƒµà/HáRMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "p1" local variable.(ûóÚÅ8¸·‚µà/HÕRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òö®ƒHÐRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ó Úê8¸·‚µà/H×RMAJORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "p1".(ûóÚÅ8¸·‚µà/HÓRMAJORZ
+CODE_SMELL

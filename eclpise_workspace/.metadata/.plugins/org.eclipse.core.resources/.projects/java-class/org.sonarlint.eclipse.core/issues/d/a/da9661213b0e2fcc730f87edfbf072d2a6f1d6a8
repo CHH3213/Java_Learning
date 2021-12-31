@@ -1,29 +1,29 @@
 
-p	java:S106"9Replace this use of System.out or System.err by a logger.(½ÊØµşÿÿÿÿ8‡éÚà/H”RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(òÁÜÁşÿÿÿÿ8¥çİà/H•RMAJORZ
-CODE_SMELL
-”
-java:S1192	"YDefine a constant instead of duplicating this literal "æ‚¨çš„å¯é€æ”¯é¢ä¸ºï¼š" 3 times.(òÁÜÁşÿÿÿÿ8¥çİà/H–RCRITICALZ
-CODE_SMELL
-p	java:S106	"9Replace this use of System.out or System.err by a logger.(òÁÜÁşÿÿÿÿ8ãï×à/HšRMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(½ÊØµşÿÿÿÿ8¯Êà/H›RMAJORZ
-CODE_SMELL
-p	java:S106)"9Replace this use of System.out or System.err by a logger.(ç÷ïøÿÿÿÿ8¥çİà/HœRMAJORZ
+t
+java:S1117#"<Rename "overdraft" which hides the field declared at line 4.(õã¥‘úÿÿÿÿ8í¸Áà/H¼RMAJORZ
 CODE_SMELL
 ”
-java:S1192"YDefine a constant instead of duplicating this literal "æ‚¨çš„è´¦æˆ·ä½™é¢ä¸ºï¼š" 3 times.(½ÊØµşÿÿÿÿ8¥çİà/HRCRITICALZ
+java:S1192"YDefine a constant instead of duplicating this literal "æ‚¨çš„è´¦æˆ·ä½™é¢ä¸ºï¼š" 3 times.(½ÊØµşÿÿÿÿ8¥çİà/H½RCRITICALZ
 CODE_SMELL
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òö®ƒH¡RMINORZ
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(ç÷ïøÿÿÿÿ8¥çİà/H¶RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(òÁÜÁşÿÿÿÿ8ãï×à/HÁRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òö®ƒHÇRMINORZ
 CODE_SMELL
 i
-java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8–÷«à/H¢RINFOZ
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8–÷«à/H»RINFOZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(½ÊØµşÿÿÿÿ8¥çİà/H£RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(òÁÜÁşÿÿÿÿ8¥çİà/H·RMAJORZ
 CODE_SMELL
-t
-java:S1117#"<Rename "overdraft" which hides the field declared at line 4.(õã¥‘úÿÿÿÿ8í¸Áà/H¤RMAJORZ
+”
+java:S1192	"YDefine a constant instead of duplicating this literal "æ‚¨çš„å¯é€æ”¯é¢ä¸ºï¼š" 3 times.(òÁÜÁşÿÿÿÿ8¥çİà/HÃRCRITICALZ
 CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(òÁÜÁşÿÿÿÿ8¥çİà/H¥RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(½ÊØµşÿÿÿÿ8‡éÚà/H¹RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(òÁÜÁşÿÿÿÿ8¥çİà/HºRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(½ÊØµşÿÿÿÿ8¯Êà/HÂRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(½ÊØµşÿÿÿÿ8¥çİà/H¸RMAJORZ
 CODE_SMELL

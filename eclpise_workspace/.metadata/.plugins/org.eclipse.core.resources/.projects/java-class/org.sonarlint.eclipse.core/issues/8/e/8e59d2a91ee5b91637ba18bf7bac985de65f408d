@@ -1,0 +1,34 @@
+
+k	java:S106""9Replace this use of System.out or System.err by a logger.( ˜Ë°8Õ”ğÆà/H‰ RMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(‘™ü8Õ”ğÆà/H€ RMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(Ã‹ˆğ8Õ”ğÆà/HıRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¦Àˆøÿÿÿÿ8Õ”ğÆà/H RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­Úƒóúÿÿÿÿ8Õ”ğÆà/HÿRMAJORZ
+CODE_SMELL
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Õ”ğÆà/H‚ RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´øƒÉùÿÿÿÿ8Õ”ğÆà/H… RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ëÂçÍ8Õ”ğÆà/H„ RMAJORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(²èÄš8Õ”ğÆà/Hˆ RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô–å÷üÿÿÿÿHûRMINORZ
+CODE_SMELL
+‘
+java:S1171*"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Õ”ğÆà/HşRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ı¼¯ÿÿÿÿÿ8Õ”ğÆà/Hƒ RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(§Ä—Éùÿÿÿÿ8­¢ñÆà/HŠ RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŞËşÙşÿÿÿÿ8Õ”ğÆà/H† RMAJORZ
+CODE_SMELL
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Õ”ğÆà/H‡ RMAJORZ
+CODE_SMELL

@@ -1,0 +1,24 @@
+
+¼
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ˆ¤Êıÿÿÿÿ8Ò³¶Éà/Hî RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¸«ôÄ8À‰´Éà/Hæ RMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(Ì™áıûÿÿÿÿ8Ò³¶Éà/Hé RMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(´æİüÿÿÿÿ8Ò³¶Éà/Hë RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(»»ª”8À‰´Éà/Hå RMAJORZ
+CODE_SMELL
+·
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥©°«8Ò³¶Éà/Hì RCRITICALZ
+CODE_SMELL
+·
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’Õ¤Æ8Ò³¶Éà/Hç RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(•ÄõÒÿÿÿÿÿ8À‰´Éà/Hä RMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(”¹â§øÿÿÿÿ8Ò³¶Éà/Hê RMAJORZ
+CODE_SMELL
+‘	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô–å÷üÿÿÿÿ8ßÂÉà/Hº!RMINORZ
+CODE_SMELL

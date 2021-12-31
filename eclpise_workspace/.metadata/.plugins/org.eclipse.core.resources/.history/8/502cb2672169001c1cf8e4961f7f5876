@@ -1,0 +1,33 @@
+package pers.chh3213.classLearn20211230;
+
+public abstract class Employee {
+	private String name;
+	private int number;
+	private MyDate birthday;
+	public abstract double earnings();
+	public String toString() {
+		return name+number+birthday.toDateString();
+	}
+}
+
+class MyDate{
+	private int year;
+	private int month;
+	private int day;
+	public MyDate(int year,int month, int day) {
+		// TODO Auto-generated constructor stub
+	}
+	public String toDateString() {
+		return year+"年"+month+"月"+day+"日";
+	}
+}
+
+class SalariedEmployee extends Employee{
+	private double monthlySalary;
+	public  double earnings() {
+		return monthlySalary;
+	}
+	public String toString() {
+		return super.toString();
+	}
+}

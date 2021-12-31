@@ -1,0 +1,16 @@
+package pers.chh3213.classLearn20211231;
+
+public class FindWrong extends B implements A {
+	public void px() {
+		System.out.println(x1);
+		}
+	public static void main(String[] args) {
+		new FindWrong().px();
+	}
+}
+interface A {
+	int x1=0;
+}
+class B {
+	int x2=1;
+}

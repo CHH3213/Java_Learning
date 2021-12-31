@@ -1,0 +1,14 @@
+package pers.chh3213.classLearn20211229;
+
+
+class Bank{
+	private int id;
+	private String password;
+	private double balance;
+	private static double annualInterestRate;
+	private static double min_balance;
+
+}
+public class BankTest {
+
+}

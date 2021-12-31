@@ -1,0 +1,23 @@
+
+u
+java:S2094"BRemove this empty class, write its code or make it an "interface".(·ğ­8„·Éà/Hö RMINORZ
+CODE_SMELL
+p
+java:S1610"8Convert the abstract class "Creature" into an interface.(–—¼¹ıÿÿÿÿ8„·Éà/H÷ RMINORZ
+CODE_SMELL
+q
+java:S5993"9Change the visibility of this constructor to "protected".(¾ÆÆ§ÿÿÿÿÿ8„·Éà/Hø RMAJORZ
+CODE_SMELL
+l
+java:S5993"9Change the visibility of this constructor to "protected".(ƒÜïí8„·Éà/Hú RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‘¡Ç£øÿÿÿÿ8„·Éà/Hü RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ğ„åÈûÿÿÿÿ8„·Éà/Hÿ RMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(±Æ™Âøÿÿÿÿ8„·Éà/H€!RMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(”áÒû8„·Éà/H!RMAJORZ
+CODE_SMELL
+‘	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô–å÷üÿÿÿÿ8„·Éà/H‚!RMINORZ
+CODE_SMELL

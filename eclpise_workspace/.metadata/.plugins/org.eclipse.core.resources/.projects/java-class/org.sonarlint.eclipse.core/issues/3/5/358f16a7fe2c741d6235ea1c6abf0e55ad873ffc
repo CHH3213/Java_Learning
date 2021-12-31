@@ -1,0 +1,10 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8Ë½šÊà/HÀ!RMAJORZ
+CODE_SMELL
+p
+java:S1610"8Convert the abstract class "Template" into an interface.(ÙŠÒ¦ÿÿÿÿÿ8Ë½šÊà/H¾!RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô–å÷üÿÿÿÿH¼!RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¬„ŠÃ8Ë½šÊà/H¿!RMAJORZ
+CODE_SMELL

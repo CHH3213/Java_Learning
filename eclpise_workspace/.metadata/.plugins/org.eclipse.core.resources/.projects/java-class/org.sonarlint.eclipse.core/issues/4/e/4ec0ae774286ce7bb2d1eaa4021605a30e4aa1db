@@ -1,0 +1,13 @@
+
+b
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ö€æÈà/H¥ RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô–å÷üÿÿÿÿH£ RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(–Ü¶ùÿÿÿÿ8ö€æÈà/Hª RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âÎô§ıÿÿÿÿ8ö€æÈà/H© RMAJORZ
+CODE_SMELL
+d
+java:S1610"1Convert the abstract class "A" into an interface.(¶¹«ı8ö€æÈà/H¨ RMINORZ
+CODE_SMELL

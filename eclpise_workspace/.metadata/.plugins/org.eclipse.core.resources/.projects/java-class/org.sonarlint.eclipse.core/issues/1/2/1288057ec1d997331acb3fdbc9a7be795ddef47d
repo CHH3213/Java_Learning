@@ -1,0 +1,17 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö‹ûÿÿÿÿH«#RMINORZ
+CODE_SMELL
+s	java:S125."<This block of commented-out lines of code should be removed.(ü¿ƒàùÿÿÿÿ8Ïñà/H¬#RMAJORZ
+CODE_SMELL
+s	java:S125""<This block of commented-out lines of code should be removed.(õ§•ìùÿÿÿÿ8¼ÿäñà/HÁ#RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ê¦Áñà/H´#RMAJORZ
+CODE_SMELL
+ˆ
+java:S6201"PReplace this instanceof check and cast with 'instanceof ComparableCircle circle'(ê’¼™ıÿÿÿÿ8Ïñà/Hµ#RMINORZ
+CODE_SMELL
+S
+java:S2129:" Remove this "String" constructor(ãó¥8Ã‘èñà/Hó#RMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(Ÿ™£şüÿÿÿÿ8Ã‘èñà/Hô#RMAJORZ
+CODE_SMELL

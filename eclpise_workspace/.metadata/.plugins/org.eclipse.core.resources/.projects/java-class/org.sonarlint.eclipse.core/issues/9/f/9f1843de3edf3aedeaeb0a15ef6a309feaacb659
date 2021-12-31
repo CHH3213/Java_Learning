@@ -1,0 +1,63 @@
+
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8É„Íµà/HÒRINFOZ
+CODE_SMELL
+€	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õùş·8Á¥Æµà/HœRMINORZ
+CODE_SMELL
+ƒ	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŠŒÁ8Á¥Æµà/HRMINORZ
+CODE_SMELL
+n
+java:S1226E"BIntroduce a new variable instead of reusing the parameter "bank2".(ß‹ê8Èıİµà/H£RMINORZBUG
+a
+java:S3010"/Remove this assignment of "annualInterestRate".(§€Ïz8Á¥Æµà/H“RMAJORZ
+CODE_SMELL
+\
+java:S2140")Use "java.util.Random.nextInt()" instead.(³¼°8äÆÑµà/HŞRMINORZ
+CODE_SMELL
+k	java:S1069"9Replace this use of System.out or System.err by a logger.(‹£¸’8€†Ùµà/HşRMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(§é£Õ8€†Ùµà/HRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(İŠ–é8€†Ùµà/HÿRMAJORZ
+CODE_SMELL
+\
+java:S1905")Remove this unnecessary cast to "double".(‘‚ÿş8äÆÑµà/HßRMINORZ
+CODE_SMELL
+b
+java:S1172
+"/Remove this unused method parameter "password".(µŠŒÁ8Á¥Æµà/H•RMAJORZ
+CODE_SMELL
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(¨’Ç‡8€†Ùµà/HıRMAJORZ
+CODE_SMELL
+
+java:S3008	"VRename this field "min_balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Á÷½şÿÿÿÿ8óÂ¾µà/HRMINORZ
+CODE_SMELL
+[
+java:S3010"(Remove this assignment of "min_balance".(Å¼´–8¥€Ìµà/HÉRMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8Á¥Æµà/H™RINFOZ
+CODE_SMELL
+j	java:S106:"9Replace this use of System.out or System.err by a logger.(Ê§·F8€†Ùµà/H€RMAJORZ
+CODE_SMELL
+g
+java:S3010"/Remove this assignment of "annualInterestRate".(ïéÌşÿÿÿÿ8äÆÑµà/HÚRMAJORZ
+CODE_SMELL
+[
+java:S3010"(Remove this assignment of "min_balance".(¥¿—8äÆÑµà/HÜRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òö®ƒHìRMINORZ
+CODE_SMELL
+p	java:S106I"9Replace this use of System.out or System.err by a logger.(ÃµÀ¤şÿÿÿÿ8ÏîŞµà/H¬RMAJORZ
+CODE_SMELL
+…	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ²ÙĞıÿÿÿÿ8Ôßèµà/H½RMINORZ
+CODE_SMELL
+h
+java:S2209F"5Change this instance-reference to a static reference.(»Õë´8Ôßèµà/H¾RMAJORZ
+CODE_SMELL
+m
+java:S2209G"5Change this instance-reference to a static reference.( ¶Ã˜ùÿÿÿÿ8Ôßèµà/HÀRMAJORZ
+CODE_SMELL
+ˆ	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ²ÙĞıÿÿÿÿ8Ôßèµà/HÂRMINORZ
+CODE_SMELL
