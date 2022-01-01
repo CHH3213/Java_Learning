@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
-    <fullyQualifiedTypeName name="java.lang.System.LoggerFinder"/>
-    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthToggleButtonUI"/>
-    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="pers.chh3213.sort.BubbleSort"/>
-    <fullyQualifiedTypeName name="java.lang.Boolean"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.time.chrono.ThaiBuddhistEra"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.Teacher"/>
     <fullyQualifiedTypeName name="java.lang.FdLibm.Pow"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn.BubbleSort"/>
@@ -46,11 +37,27 @@
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211230.SalariedEmployee"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211230.MyDate"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211230.Employee"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231.CompareObject"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231.Circle"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231.ComparableCircle"/>
     <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231.Man"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.Shape"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.Circle"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.Cylinder"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.First.Contents"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.First"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.First.Titles"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.Car"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20211231exercise.Car.Air"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20220101exercise.A"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20220101exercise.A.B"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20220101exercise.Sound"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20220101exercise.Bell"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20220101exercise.CellPhone"/>
+    <fullyQualifiedTypeName name="pers.chh3213.classLearn20220101exercise.CellPhone.Bell"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

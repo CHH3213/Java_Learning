@@ -1,0 +1,12 @@
+
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒ“hH†-RMINORZ
+CODE_SMELL
+m
+java:S1118":Add a private constructor to hide the implicit public one.(äÎ÷Ç8»Ú”Ÿá/H‡-RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ì¬È¼ùÿÿÿÿ8»Ú”Ÿá/Hˆ-RMAJORZ
+CODE_SMELL
+k
+java:S2259"?A "NullPointerException" could be thrown; "a" is nullable here.(³Üú‘8»Ú”Ÿá/HŽ-RMAJORZBUG
+p
+java:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(è©¬ñûÿÿÿÿ8»Ú”Ÿá/H’-RMAJORZBUG

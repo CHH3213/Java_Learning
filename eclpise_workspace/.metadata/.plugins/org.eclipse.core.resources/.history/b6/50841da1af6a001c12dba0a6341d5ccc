@@ -1,0 +1,5 @@
+package pers.chh3213.classLearn20220101exercise;
+
+public interface Sound {
+
+}

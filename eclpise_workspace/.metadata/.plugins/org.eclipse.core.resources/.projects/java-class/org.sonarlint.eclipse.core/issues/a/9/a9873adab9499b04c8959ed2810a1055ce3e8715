@@ -1,0 +1,21 @@
+
+`
+java:S1481"(Remove this unused "foo" local variable.(úÀ±úÿÿÿÿ8¥›Ú‚á/H&RMINORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "foo".(úÀ±úÿÿÿÿ8¥›Ú‚á/Hƒ&RMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "bar" local variable.( ­öÊıÿÿÿÿ8¥›Ú‚á/H„&RMINORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "baz" local variable.(ÕùüĞıÿÿÿÿ8¥›Ú‚á/H†&RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Ÿ„Hˆ&RMINORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "baz".(ÕùüĞıÿÿÿÿ8¥›Ú‚á/H‰&RMAJORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "bar".( ­öÊıÿÿÿÿ8¥›Ú‚á/HŠ&RMAJORZ
+CODE_SMELL

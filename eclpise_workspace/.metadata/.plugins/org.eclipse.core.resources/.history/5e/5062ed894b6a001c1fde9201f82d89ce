@@ -1,0 +1,15 @@
+package pers.chh3213.classLearn20211231exercise;
+
+
+class Car{
+	private double temperature;
+	public Car(double temperature) {
+		// TODO Auto-generated constructor stub
+		this.temperature = temperature;
+	}
+
+}
+
+public class CarTest {
+
+}

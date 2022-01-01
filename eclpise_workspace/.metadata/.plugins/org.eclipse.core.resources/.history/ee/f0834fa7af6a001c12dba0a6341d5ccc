@@ -1,0 +1,7 @@
+package pers.chh3213.classLearn20220101exercise;
+
+public class CellPhone {
+	public void alarmClock(Bell bell) {
+		bell.print();
+	}
+}

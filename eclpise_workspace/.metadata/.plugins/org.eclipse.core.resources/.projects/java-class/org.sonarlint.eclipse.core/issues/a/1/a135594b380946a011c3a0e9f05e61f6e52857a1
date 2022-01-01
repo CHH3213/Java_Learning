@@ -1,0 +1,19 @@
+
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(œ½Šêûÿÿÿÿ8½¬ô¦á/H®.RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªïÙâûÿÿÿÿ8½¬ô¦á/H¯.RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(ê®Ë§ùÿÿÿÿ8½¬ô¦á/H°.RMAJORZ
+CODE_SMELL
+N
+java:S3626"Remove this redundant jump.(ûÁÝ…8½¬ô¦á/H±.RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¦îÍõúÿÿÿÿ8½¬ô¦á/H².RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡¼â±ûÿÿÿÿ8½¬ô¦á/H³.RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8½¬ô¦á/H´.RMAJORZ
+CODE_SMELL
+d
+java:S1135"2Complete the task associated to this TODO comment.(‡ñÅ¼8½¬ô¦á/Hµ.RINFOZ
+CODE_SMELL

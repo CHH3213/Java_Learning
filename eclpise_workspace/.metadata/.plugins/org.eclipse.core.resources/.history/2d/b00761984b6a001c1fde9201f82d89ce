@@ -1,0 +1,31 @@
+package pers.chh3213.classLearn20211231exercise;
+
+
+class Car{
+	private double temperature;
+	public Car(double temperature) {
+		// TODO Auto-generated constructor stub
+		this.temperature = temperature;
+	}
+	class Air{
+		public void flow() {
+			if(temperature>40) {
+				System.out.println("cold wind");
+			}
+			else if(temperature<0) {
+				System.out.println("warm wind");
+			}
+			else {
+				System.out.println("close Air");
+			}
+		}
+	}
+	public void test() {
+
+	}
+
+}
+
+public class CarTest {
+
+}
