@@ -10,4 +10,13 @@
 			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
 	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\CHH3213_KING\研究生\导师\就业规划\尚硅谷_宋红康_java基础\课件笔记源码资料\2_项目\Project3（开发团队人员调度软件）\3.2-参考实现\最终代码\Project03"/>
+		</list>
+	</section>
 </section>

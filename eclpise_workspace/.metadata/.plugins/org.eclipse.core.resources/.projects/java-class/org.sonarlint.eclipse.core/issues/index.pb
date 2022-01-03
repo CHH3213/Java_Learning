@@ -123,10 +123,6 @@ h
 8src/pers/chh3213/classLearn20211231exercise/CarTest.java,c\6\c63a26767c1745551e6d5e4261d493d327a8dd00
 b
 2src/pers/chh3213/classLearn20220101exercise/A.java,7\0\70cd3f4896c5bf3c3f93dff1cf6d1e7bb12058f8
-f
-6src/pers/chh3213/classLearn20220101exercise/Sound.java,4\a\4a5b7d220364eb2ced8401b68fe0ac2c0d6778ab
-e
-5src/pers/chh3213/classLearn20220101exercise/Bell.java,8\c\8c6bb1de81142cd579aa1d874da3e5613324b755
 j
 :src/pers/chh3213/classLearn20220101exercise/CellPhone.java,3\1\311f3653e11156f9599a33ba56f09e71ca2fbd5c
 e
@@ -155,3 +151,5 @@ k
 ,src/pers/chh3213/exception20220101/Demo.java,1\5\15cedb74cf73bdaa4a61a403746803fd4dceaac9
 ]
 -src/pers/chh3213/exception20220101/Demo2.java,f\c\fc3be87fca840b7e37e09fa81c47f6a467198ce5
+h
+8src/pers/chh3213/classLearn20220103deleteArray/Main.java,b\2\b2c238c72f792f58ab2a440d5d522acb48e5838d

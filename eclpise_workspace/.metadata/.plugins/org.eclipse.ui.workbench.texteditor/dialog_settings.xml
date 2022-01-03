@@ -8,6 +8,7 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value="method"/>
 		<list key="findhistory">
+			<item value="else if(e instanceof Designer) {"/>
 			<item value="method"/>
 			<item value="Bank"/>
 			<item value="arr[0]"/>
