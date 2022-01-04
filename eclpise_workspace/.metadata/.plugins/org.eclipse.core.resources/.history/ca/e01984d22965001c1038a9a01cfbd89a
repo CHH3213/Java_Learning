@@ -1,9 +1,0 @@
-package pers.chh3213.sort;
-import java.util.*;
-public class Fibonacci {
-	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
-	}
-
-
-}

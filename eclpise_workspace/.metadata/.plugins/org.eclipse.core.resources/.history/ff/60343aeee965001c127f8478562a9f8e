@@ -1,9 +1,0 @@
-package pers.chh3213.classLearn;
-import pers.chh3213.classLearn.Account;
-public class MainClass {
-	public static void main(String[] args) {
-		Account account = new Account(32, 1000000, 0.1);
-		account.deposit(1000000);
-		account.withdraw(100000000);
-	}
-}

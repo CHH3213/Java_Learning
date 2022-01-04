@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ë–­şÿÿÿÿ8»óÑ§á/Hæ.RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(œÂ†û8»óÑ§á/Hç.RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8»óÑ§á/Hè.RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8»óÑ§á/Hé.RMAJORZ
+CODE_SMELL
+Y
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8»óÑ§á/Hê.RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(å°á}8»óÑ§á/Hì.RMAJORZ
+CODE_SMELL

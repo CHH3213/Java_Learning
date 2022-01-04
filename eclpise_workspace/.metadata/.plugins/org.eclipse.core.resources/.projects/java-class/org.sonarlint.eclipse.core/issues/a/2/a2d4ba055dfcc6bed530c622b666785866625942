@@ -1,0 +1,12 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÂšÏò8¿²˜¥á/HÌ-RMAJORZ
+CODE_SMELL
+e
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8º¥á/HŞ-RCRITICALZ
+CODE_SMELL
+€
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ğ©âùÿÿÿÿ8¿²˜¥á/HÑ-RBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8º¥á/HÜ-RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÀªÑùÿÿÿÿ8º¥á/Hİ-RMAJORZ
+CODE_SMELL

@@ -1,0 +1,33 @@
+
+€
+java:S2095:"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8²Í¤á/H²-RBLOCKERZBUG
+k	java:S106\"9Replace this use of System.out or System.err by a logger.(ÂÖ¡‘8²Í¤á/H¯-RMAJORZ
+CODE_SMELL
+o
+java:S1854M"7Remove this useless assignment to local variable "str".(Ã•Ú³ûÿÿÿÿ8²Í¤á/H§-RMAJORZ
+CODE_SMELL
+p	java:S106`"9Replace this use of System.out or System.err by a logger.(²Æ‡Ñşÿÿÿÿ8²Í¤á/H°-RMAJORZ
+CODE_SMELL
+i
+java:S1854P"7Remove this useless assignment to local variable "num".(³˜ÓH8²Í¤á/H¨-RMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(É¸¦ûÿÿÿÿ8²Í¤á/H®-RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(í•†î8²Í¤á/Hœ-RMAJORZ
+CODE_SMELL
+k	java:S106R"9Replace this use of System.out or System.err by a logger.(±•š­8²Í¤á/H¦-RMAJORZ
+CODE_SMELL
+w
+java:S2147E"DCombine this catch with the one at line 67, which has the same body.(ï­£Ä8²Í¤á/H¤-RMINORZ
+CODE_SMELL
+k	java:S106Z"9Replace this use of System.out or System.err by a logger.(¼À–°8²Í¤á/H«-RMAJORZ
+CODE_SMELL
+m	java:S125^"<This block of commented-out lines of code should be removed.(‚ÒÍ)8²Í¤á/H±-RMAJORZ
+CODE_SMELL
+s	java:S125T"<This block of commented-out lines of code should be removed.(ÆÉóËÿÿÿÿÿ8²Í¤á/H¬-RMAJORZ
+CODE_SMELL
+Z
+java:S1481P"(Remove this unused "num" local variable.(³˜ÓH8²Í¤á/H©-RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(–™îÄ8¥†Ó¤á/HÊ-RMAJORZ
+CODE_SMELL

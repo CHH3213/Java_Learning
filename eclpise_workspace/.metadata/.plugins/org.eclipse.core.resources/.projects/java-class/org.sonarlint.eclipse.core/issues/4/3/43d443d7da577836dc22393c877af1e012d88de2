@@ -1,0 +1,13 @@
+
+q
+java:S1659">Declare "y" and all following declarations on a separate line.(òÊºá8²í¶á/Hü,RMINORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÒ“hHì,RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´î¿œıÿÿÿÿ8²í¶á/Hú,RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­Äªúÿÿÿÿ8²í¶á/Hù,RMAJORZ
+CODE_SMELL
+X
+java:S1481"&Remove this unused "x" local variable.(ğúµ8‰ ¸á/H€-RMINORZ
+CODE_SMELL

@@ -1,7 +1,0 @@
-package pers.chh3213.classLearn;
-
-public class Account {
-	private int id;
-	private double balance;
-	private double annualInterestRate;
-}
