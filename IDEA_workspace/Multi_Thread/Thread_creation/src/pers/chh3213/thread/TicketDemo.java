@@ -34,11 +34,11 @@ class Ticket implements Runnable{
         while (true) {
             synchronized (this) {
                 if (tick > 0) {
-                    try {
-                        Thread.sleep(10);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+//                    try {
+//                        Thread.sleep(10);
+//                    } catch (InterruptedException e) {
+//                        e.printStackTrace();
+//                    }
 
                     System.out.println(Thread.currentThread().getName() + "售出车票，tick号为：" + tick--);
                 } else break;

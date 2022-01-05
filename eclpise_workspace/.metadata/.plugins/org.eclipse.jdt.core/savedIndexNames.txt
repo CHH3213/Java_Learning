@@ -1,17 +1,6 @@
-<<<<<<< HEAD
-INDEX VERSION 1.131+/home/chh3213/chh_coding/Java_Learning/eclpise_workspace/.metadata/.plugins/org.eclipse.jdt.core
-1115991289.index
-1111933973.index
-614198415.index
-1865797976.index
-=======
 INDEX VERSION 1.131+E:\CHH3213_KING\研究生\导师\就业规划\Java_Learning\eclpise_workspace\.metadata\.plugins\org.eclipse.jdt.core
-2229743990.index
-2451601544.index
 3035153406.index
+1130092669.index
 985306958.index
 1865797976.index
-3493467400.index
 1128005282.index
-1130092669.index
->>>>>>> bc007451928fcb99291efef1eb6f10750846dbf3

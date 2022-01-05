@@ -37,8 +37,8 @@ class Ticket2 extends Thread{
             buy();
         }
     }
-    public static synchronized void buy(){
-//    public  synchronized void buy(){//此种解决方法错误
+    public static synchronized void buy(){//synchronized 的锁为 Ticket2.class，即当前类本身
+//    public  synchronized void buy(){//synchronized 的锁为 this,此种方式在 继承Thread 类的时候是错误的
             if (tick > 0) {
 //                    try {
 //                        Thread.sleep(10);

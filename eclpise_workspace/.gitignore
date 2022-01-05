@@ -1,5 +1,7 @@
-.metadata/
+# .metadata/
 /.metadata/
 .sonarlint/
 /.sonarlint/
-/.metadata
+# /.metadata
+.metadata/*
+/.metadata/

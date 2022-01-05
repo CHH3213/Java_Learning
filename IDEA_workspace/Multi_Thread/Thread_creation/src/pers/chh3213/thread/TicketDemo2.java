@@ -36,7 +36,7 @@ class Ticket2 extends Thread{
     @Override
     public  void run(){
         while (true) {
-//            synchronized (Window.class) { //方式 1
+//            synchronized (Ticket2.class) { //方式 1
             synchronized (obj) {//方式 2
 //            synchronized (this) {//错误，因为此时this表示的是t1,t2,t3三个对象
                 if (tick > 0) {
