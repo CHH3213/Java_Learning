@@ -1,2 +1,4 @@
-package pers.chh3213.annatation_exercise;public class MyAnnotation {
+package pers.chh3213.annatation_exercise;
+
+public class MyAnnotation {
 }
