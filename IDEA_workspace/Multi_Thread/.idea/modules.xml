@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Multi_Thread.iml" filepath="$PROJECT_DIR$/Multi_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadCommunication/ThreadCommunication.iml" filepath="$PROJECT_DIR$/ThreadCommunication/ThreadCommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread_creation/Thread_creation.iml" filepath="$PROJECT_DIR$/Thread_creation/Thread_creation.iml" />
     </modules>
   </component>
