@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I have a dream!
+=======
+xyzave a dream!
+>>>>>>> chh3213_mechrevo
 you need to have a dream!
