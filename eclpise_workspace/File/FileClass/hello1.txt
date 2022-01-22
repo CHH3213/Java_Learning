@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 xyzave a dream!
+=======
+<<<<<<< HEAD
+I have a dream!
+=======
+xyzave a dream!
+>>>>>>> chh3213_mechrevo
+>>>>>>> master
 you need to have a dream!
