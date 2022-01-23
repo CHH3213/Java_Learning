@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¢ÕÖ—ÿÿÿÿÿ8™Á®è/
+B
+java:S3011",This accessibility update should be removed.(¹£†ü
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¨«Ü
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ØÜ£š
+G
+java:S3011&",This accessibility update should be removed.(†©íúÿÿÿÿ
+P	java:S125("<This block of commented-out lines of code should be removed.(ŞÏÊf
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ñù«l8‡ãœ®è/

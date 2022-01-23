@@ -1,0 +1,26 @@
+
+[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(‹³ó¯
+E
+java:S3740)"/Provide the parametrized type for this generic.(ÉÄİÙ
+D
+java:S3740*"/Provide the parametrized type for this generic.(ÊÛğc
+J
+java:S37409"/Provide the parametrized type for this generic.(†ŞÈæøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ
+G
+java:S30111",This accessibility bypass should be removed.(ùáßÃşÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(èëËıÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ƒ®ß­ıÿÿÿÿ
+B
+java:S3011:",This accessibility update should be removed.(”İÙ®
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ
+A
+java:S3011?",This accessibility update should be removed.(ºÓüE
+B
+java:S3011@",This accessibility bypass should be removed.(ÚÂî
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ
+B
+java:S3011E",This accessibility update should be removed.(Ìƒöä
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ñ—‘
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¸ß²øÿÿÿÿ

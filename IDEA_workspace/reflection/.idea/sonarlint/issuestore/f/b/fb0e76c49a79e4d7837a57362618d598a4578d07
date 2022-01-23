@@ -1,0 +1,61 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(õû¤é
+J
+java:S3740"/Provide the parametrized type for this generic.(æ¾·ëøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ïø‡ûÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(–¯ÆD
+D
+java:S3740"/Provide the parametrized type for this generic.(»”®.
+D
+java:S3740"/Provide the parametrized type for this generic.(ºõ½=
+E
+java:S3740"/Provide the parametrized type for this generic.(Èãˆí
+J
+java:S3740"/Provide the parametrized type for this generic.(¥»¤¸øÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(û¥‚Á
+J
+java:S3740!"/Provide the parametrized type for this generic.(‚¸Î”ıÿÿÿÿ
+E
+java:S3740""/Provide the parametrized type for this generic.(ãéÜ
+L
+java:S1854"6Remove this useless assignment to local variable "c9".(û¥‚Á
+Q
+java:S1854"6Remove this useless assignment to local variable "c8".(¥»¤¸øÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c7".(Èãˆí
+K
+java:S1854"6Remove this useless assignment to local variable "c6".(ºõ½=
+K
+java:S1854"6Remove this useless assignment to local variable "c5".(»”®.
+K
+java:S1854"6Remove this useless assignment to local variable "c4".(–¯ÆD
+Q
+java:S1854"6Remove this useless assignment to local variable "c3".(Ïø‡ûÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "c2".(æ¾·ëøÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c1".(õû¤é
+=
+java:S1481"'Remove this unused "c1" local variable.(õû¤é
+B
+java:S1481"'Remove this unused "c2" local variable.(æ¾·ëøÿÿÿÿ
+B
+java:S1481"'Remove this unused "c3" local variable.(Ïø‡ûÿÿÿÿ
+<
+java:S1481"'Remove this unused "c4" local variable.(–¯ÆD
+<
+java:S1481"'Remove this unused "c5" local variable.(»”®.
+<
+java:S1481"'Remove this unused "c6" local variable.(ºõ½=
+=
+java:S1481"'Remove this unused "c7" local variable.(Èãˆí
+B
+java:S1481"'Remove this unused "c8" local variable.(¥»¤¸øÿÿÿÿ
+=
+java:S1481"'Remove this unused "c9" local variable.(û¥‚Á
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ğúîœ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š¸ß²øÿÿÿÿ
