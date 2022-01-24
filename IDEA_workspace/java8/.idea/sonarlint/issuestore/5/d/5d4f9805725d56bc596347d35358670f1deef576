@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉåÕ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(•‰Å³ûÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÏÃıš
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(ÑÌ¶q
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+[
+java:S16129"@Replace this lambda with method reference 'Employee::getSalary'.(ı°åøÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Ö’È‘
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(µ©·¢
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ÄÂ‚ş
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‡{

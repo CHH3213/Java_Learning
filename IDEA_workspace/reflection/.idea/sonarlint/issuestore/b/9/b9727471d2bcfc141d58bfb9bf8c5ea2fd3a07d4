@@ -1,0 +1,10 @@
+
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+O
+java:S1854'":Remove this useless assignment to local variable "invoke".(ÊÑ¥p
+G
+java:S3011&",This accessibility update should be removed.(ä¾Şëşÿÿÿÿ
+@
+java:S1481'"+Remove this unused "invoke" local variable.(ÊÑ¥p
+]
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ê¬Ä9

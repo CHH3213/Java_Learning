@@ -1,0 +1,18 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éù¸ÿÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ß‹ó•
+E
+java:S3740"/Provide the parametrized type for this generic.(„­İ
+J
+java:S3740#"/Provide the parametrized type for this generic.(Å·ğÅúÿÿÿÿ
+P
+java:S1854)":Remove this useless assignment to local variable "invoke".(ı½İü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…”Äüÿÿÿÿ
+B
+java:S3011(",This accessibility update should be removed.(ÊÄ®²
+A
+java:S1481)"+Remove this unused "invoke" local variable.(ı½İü
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‹ó•

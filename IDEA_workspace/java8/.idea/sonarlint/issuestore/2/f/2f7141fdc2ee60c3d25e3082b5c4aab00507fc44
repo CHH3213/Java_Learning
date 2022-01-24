@@ -1,0 +1,12 @@
+
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿ
+F
+java:S1611'"1Remove the parentheses around the "str" parameter(ó¨õi
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¾×Ïê
+G
+java:S1611*"1Remove the parentheses around the "str" parameter(ä†ß¬
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Íˆ¶‚ùÿÿÿÿ
+G
+java:S1611-"1Remove the parentheses around the "str" parameter(Í½”Ù
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ý·Êôýÿÿÿÿ
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(è“Ã&

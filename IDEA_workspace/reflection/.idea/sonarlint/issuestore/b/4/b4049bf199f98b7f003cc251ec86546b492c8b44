@@ -1,0 +1,11 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ŠµI
+X	java:S125"<This block of commented-out lines of code should be removed.(ŸÆµÆ8…èù£è/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¸Ïùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¥ïµİüÿÿÿÿ
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Œ½óì8”¼ù£è/
+\
+java:S1845*"FRename field "M" to prevent any misunderstanding/clash with field "m".(×¦¹
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Ó¤î˜8†òü£è/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ±¿}

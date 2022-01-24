@@ -1,6 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+xyzave a dream!
+=======
+<<<<<<< HEAD
+>>>>>>> chh3213_mechrevo
 I have a dream!
 =======
 xyzave a dream!
+>>>>>>> chh3213_mechrevo
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> chh3213_mechrevo
 you need to have a dream!

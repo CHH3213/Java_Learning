@@ -1,0 +1,19 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬Æ—–ıÿÿÿÿ8Ã€ú·è/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ä•Ş8Å€ú·è/
+M
+java:S1854*"7Remove this useless assignment to local variable "tom".(Ï©‚
+Z
+java:S1854&"8Remove this useless assignment to local variable "jack".(¨õŠÓıÿÿÿÿ8Æ€ú·è/
+N
+java:S3011%",This accessibility update should be removed.(Â…©éûÿÿÿÿ8È€ú·è/
+K
+java:S1481&")Remove this unused "jack" local variable.(¨õŠÓıÿÿÿÿ8É€ú·è/
+I
+java:S3011)",This accessibility update should be removed.(É”³ 8É€ú·è/
+>
+java:S1481*"(Remove this unused "tom" local variable.(Ï©‚
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+B
+java:S1068"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ
