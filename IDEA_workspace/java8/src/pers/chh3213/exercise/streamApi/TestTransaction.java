@@ -1,4 +1,4 @@
-package com.atguigu.exer;
+package pers.chh3213.exercise.streamApi;
 
 import java.util.ArrayList;
 import java.util.Arrays;

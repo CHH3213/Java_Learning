@@ -37,6 +37,10 @@ b
 2src/pers/chh3213/specfied_structure/FieldTest.java,f\a\fa4a9ad172c231829bd7e1d3eb7b99080416e702
 ^
 .src/pers/chh3213/full_constructure/Person.java,6\6\66a717ff9cd96b9e0881ab4f3904ac88f448b432
+9
+	hello.txt,3\8\3857b672471862eab426eba0622e44bd2cedbd5d
+d
+4src/pers/chh3213/full_constructure/MyAnnotation.java,1\5\15f859644e2b5d5cf5a6c47c5cfc1ffdf383a01d
 c
 3src/pers/chh3213/specfied_structure/MethodTest.java,0\3\0335687063a212d9d07d6f4426de59211e7f4ff3
 h
@@ -47,14 +51,10 @@ h
 ,src/pers/chh3213/proxy/DynamicProxyTest.java,5\e\5ee4f4fd5879436ac1545510c482f17945ddd281
 S
 #src/pers/chh3213/proxy/AOPTest.java,3\d\3de04664fe27d9e869b7b537aec324188e095668
-9
-	hello.txt,3\8\3857b672471862eab426eba0622e44bd2cedbd5d
-_
-/src/pers/chh3213/exercise/NewInstanceTest2.java,b\9\b9727471d2bcfc141d58bfb9bf8c5ea2fd3a07d4
 ^
 .src/pers/chh3213/exercise/NewInstanceTest.java,5\d\5dadd7bdbd0c0a99ec35e34e3c18e333fc7bdcad
-d
-4src/pers/chh3213/full_constructure/MyAnnotation.java,1\5\15f859644e2b5d5cf5a6c47c5cfc1ffdf383a01d
+_
+/src/pers/chh3213/exercise/NewInstanceTest2.java,b\9\b9727471d2bcfc141d58bfb9bf8c5ea2fd3a07d4
 Z
 *src/pers/chh3213/exercise/TestGetAnno.java,c\2\c2193870fc1f2a588d68426522dba87857e1ec33
 Z

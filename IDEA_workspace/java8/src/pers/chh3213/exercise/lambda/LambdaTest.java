@@ -1,4 +1,4 @@
-package pers.chh3213.exercise;
+package pers.chh3213.exercise.lambda;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,0 +1,24 @@
+
+]
+java:S1854 "BRemove this useless assignment to local variable "parallelStream".(àéÚ×ÿÿÿÿÿ
+O
+java:S1854":Remove this useless assignment to local variable "stream".(î»Êd
+@
+java:S1481"+Remove this unused "stream" local variable.(î»Êd
+N
+java:S1481 "3Remove this unused "parallelStream" local variable.(àéÚ×ÿÿÿÿÿ
+P
+java:S1854.";Remove this useless assignment to local variable "stream1".(¿ŠT
+U
+java:S1854(":Remove this useless assignment to local variable "stream".(›è‹üÿÿÿÿ
+F
+java:S1481("+Remove this unused "stream" local variable.(›è‹üÿÿÿÿ
+A
+java:S1481.",Remove this unused "stream1" local variable.(¿ŠT
+P
+java:S18543":Remove this useless assignment to local variable "stream".(ø»Ç¬
+A
+java:S14813"+Remove this unused "stream" local variable.(ø»Ç¬
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(‡ÂİŞûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(‘“şÂşÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‡{

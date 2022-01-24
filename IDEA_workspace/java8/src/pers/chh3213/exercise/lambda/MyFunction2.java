@@ -1,4 +1,4 @@
-package pers.chh3213.exercise;
+package pers.chh3213.exercise.lambda;
 
 public interface MyFunction2<T, R> {
 

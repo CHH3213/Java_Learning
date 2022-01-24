@@ -1,0 +1,15 @@
+
+o
+java:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleConsumer'(€¬Ï§ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Š„Û³ùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÃµÀ¤şÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Â²ÿ¬
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(£ˆ‡
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ÃµÀ¤şÿÿÿÿ
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(Ñ©¡üÿÿÿÿ8©Ó¤Îè/
+>
+java:S1604$"(Make this anonymous inner class a lambda(ĞæĞ
+C
+java:S1604A"(Make this anonymous inner class a lambda(²ÔÕÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š¥­Ï
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖØ˜Êüÿÿÿÿ

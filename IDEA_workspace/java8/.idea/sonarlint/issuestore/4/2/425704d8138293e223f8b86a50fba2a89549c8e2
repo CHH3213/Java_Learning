@@ -1,0 +1,48 @@
+
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÚáÕƒıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚáÕƒıÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ØÜ£š
+S	java:S106""9Replace this use of System.out or System.err by a logger.(·Ü‹ûÿÿÿÿ
+O
+java:S1612,"9Replace this lambda with method reference 'emp::getName'.(´Åã
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Óãò
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(©ú“
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¡Ûµ«
+X
+java:S16128"=Replace this lambda with method reference 'Integer::compare'.(ŸªÎ¥üÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ÂÚÍÌøÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(‘ıÛ™şÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(—å’øıÿÿÿÿ
+N
+java:S1854D"8Remove this useless assignment to local variable "func".(åù¢ı
+p
+java:S4276D"ZRefactor this code to use the more specialised Functional Interface 'DoubleToLongFunction'(åù¢ı
+?
+java:S1481D")Remove this unused "func" local variable.(åù¢ı
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ã€‡’
+o
+java:S4276M"ZRefactor this code to use the more specialised Functional Interface 'DoubleToLongFunction'(Îˆá
+M
+java:S1612M"8Replace this lambda with method reference 'Math::round'.(Îˆá
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(íè¹É
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(áñÁ·
+p
+java:S4276R"ZRefactor this code to use the more specialised Functional Interface 'DoubleToLongFunction'(ğÒ¸§
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(‡Üôùÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(¿Ğ¾„
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ØÜ£š
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(‚ğÕÙ
+Q	java:S125c"<This block of commented-out lines of code should be removed.(ıÍ¸˜
+M	java:S106h"9Replace this use of System.out or System.err by a logger.(çñÀ
+M	java:S106j"9Replace this use of System.out or System.err by a logger.(²ÏË
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(â¢á
+V	java:S125q"<This block of commented-out lines of code should be removed.(¤Ô¶Šûÿÿÿÿ
+Y
+java:S1612v">Replace this lambda with method reference 'Employee::getName'.(şÄæøÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(®¤¯©ùÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(ş»Ş
+M	java:S106|"9Replace this use of System.out or System.err by a logger.(ÀşM
+>
+java:S1604D"(Make this anonymous inner class a lambda(åù¢ı
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹¤¥’

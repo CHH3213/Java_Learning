@@ -1,4 +1,4 @@
-package com.atguigu.exer;
+package pers.chh3213.exercise.streamApi;
 //交易员类
 public class Trader {
 

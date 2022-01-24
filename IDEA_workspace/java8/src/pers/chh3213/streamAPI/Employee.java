@@ -1,4 +1,4 @@
-package pers.chh3213.MethodRef;
+package pers.chh3213.streamAPI;
 
 /**
  * Created with IntelliJ IDEA.
